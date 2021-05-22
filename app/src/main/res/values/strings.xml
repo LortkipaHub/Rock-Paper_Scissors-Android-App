@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RpsGame</string>
+    <string name="startScreenText">Press any button to start</string>
+    <string name="playerString">Player</string>
+    <string name="computerString">Computer</string>
+    <string name="rockText">ROCK</string>
+    <string name="paperText">PAPER</string>
+    <string name="scissorText">SCISSORS</string>
+</resources>
